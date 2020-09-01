@@ -1,5 +1,8 @@
 # Tweet Sentiment Analysis
-Built a Long Short-Term Memory (LSTM) based model to predict the overall sentiment (positive, negative, or neural) in tweet dataset. Used a training dataset with 27471 tweets and testing dataset with 3534 tweets from Kaggle. Achieved training accuracy up to 88%.<br>
+
+Collaborated with two team members to build models based on Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT) to predict the overall sentiment (positive, negative, or neural) in tweet dataset, and compare the results. I focused on the LSTM model implementation. Used a training dataset with 27471 tweets and testing dataset with 3534 tweets from Kaggle. Achieved training accuracy up to 88%.<br><br>
+**Skills: LSTM, BERT, Keras, Pandas, sci-kit learn, Google Colab**
+
 
 #### Data Preprocessing
 a. Remove all rows containing null values.<br>
