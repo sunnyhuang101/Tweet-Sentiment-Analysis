@@ -17,3 +17,17 @@ converted to number 1, 2,3). Note: we combine the distinct tokenized words in tr
 #### Report
 <img src="./imgs/p1.png" />
 <br>
+<img src="./imgs/p2.png" />
+<br>
+<img src="./imgs/p3.png" />
+<br>
+<img src="./imgs/p4.png" />
+<br>
+<img src="./imgs/p5.png" />
+<br>
+<img src="./imgs/p6.png" />
+<br>
+<img src="./imgs/p7.png" />
+<br>
+<img src="./imgs/p8.png" />
+<br>
