@@ -14,3 +14,6 @@ d. Tokenize every tweet into separate word using the tokenizer in the deep learn
 e. Convert distinct words and labels into numeric values (for example: ‘son’, ‘you’, ‘whether’ are
 converted to number 1, 2,3). Note: we combine the distinct tokenized words in training set and test set before converting them to numbers in order to make sure these 2 data sets have same dimensions of tokenized text.
 
+#### Report
+<img src="./imgs/p1" />
+<br>
